@@ -4,16 +4,16 @@ title: Useful Bug Bounty Resources
 ---
 
 + **XSS**
- - [XSS-es in Google Caja](http://blog.bentkowski.info/2016/07/xss-es-in-google-caja.html)
- - [XSS via file upload - www.google.com (Postini Header Analyzer)](http://blog.bentkowski.info/2015/05/xss-via-file-upload-wwwgooglecom.html)
- - [XSS via window.stop() - Google Safen Up](http://blog.bentkowski.info/2015/05/xss-via-windowstop-google-safen-up.html)
- - [XSS via Host header - www.google.com/cse](http://blog.bentkowski.info/2015/04/xss-via-host-header-cse.html)
- - [Best reports series - Account Recovery XSS](https://sites.google.com/site/bughunteruniversity/best-reports/account-recovery-xss)
- - [Coinbase – Owning a Bitcoin Exchange Bug Bounty Program](http://donncha.is/2013/06/coinbase-owning-a-bitcoin-exchange-bug-bounty-program/)
- - [Using a Braun Shaver to Bypass XSS Audit and WAF by Frans Rosen, Detectify](https://blog.bugcrowd.com/guest-blog-using-a-braun-shaver-to-bypass-xss-audit-and-waf-by-frans-rosen-detectify)
- - [XSS on a input hidden field](http://blog.portswigger.net/2015/11/xss-in-hidden-input-fields.html)
- - [XSS Without Event Handlers](http://brutelogic.com.br/blog/xss-without-event-handlers/)
- - [Finding XSS vulnerabilities in flash files](https://olivierbeg.com/finding-xss-vulnerabilities-in-flash-files/)
+  - [XSS-es in Google Caja](http://blog.bentkowski.info/2016/07/xss-es-in-google-caja.html)
+  - [XSS via file upload - www.google.com (Postini Header Analyzer)](http://blog.bentkowski.info/2015/05/xss-via-file-upload-wwwgooglecom.html)
+  - [XSS via window.stop() - Google Safen Up](http://blog.bentkowski.info/2015/05/xss-via-windowstop-google-safen-up.html)
+  - [XSS via Host header - www.google.com/cse](http://blog.bentkowski.info/2015/04/xss-via-host-header-cse.html)
+  - [Best reports series - Account Recovery XSS](https://sites.google.com/site/bughunteruniversity/best-reports/account-recovery-xss)
+  - [Coinbase – Owning a Bitcoin Exchange Bug Bounty Program](http://donncha.is/2013/06/coinbase-owning-a-bitcoin-exchange-bug-bounty-program/)
+  - [Using a Braun Shaver to Bypass XSS Audit and WAF by Frans Rosen, Detectify](https://blog.bugcrowd.com/guest-blog-using-a-braun-shaver-to-bypass-xss-audit-and-waf-by-frans-rosen-detectify)
+  - [XSS on a input hidden field](http://blog.portswigger.net/2015/11/xss-in-hidden-input-fields.html)
+  - [XSS Without Event Handlers](http://brutelogic.com.br/blog/xss-without-event-handlers/)
+  - [Finding XSS vulnerabilities in flash files](https://olivierbeg.com/finding-xss-vulnerabilities-in-flash-files/)
 
 + **XSS WAF Bypass** 
   - [XSS Auditor bypass using Flash and base tag](http://mksben.l0.cm/2016/05/xssauditor-bypass-flash-basetag.html)
