@@ -14,6 +14,7 @@ title: Useful Bug Bounty Resources
   - [XSS on a input hidden field](http://blog.portswigger.net/2015/11/xss-in-hidden-input-fields.html)
   - [XSS Without Event Handlers](http://brutelogic.com.br/blog/xss-without-event-handlers/)
   - [Finding XSS vulnerabilities in flash files](https://olivierbeg.com/finding-xss-vulnerabilities-in-flash-files/)
+  - [Google XSS Turkey](https://labs.detectify.com/2015/06/06/google-xss-turkey/)
 
 + **XSS WAF Bypass** 
   - [XSS Auditor bypass using Flash and base tag](http://mksben.l0.cm/2016/05/xssauditor-bypass-flash-basetag.html)
