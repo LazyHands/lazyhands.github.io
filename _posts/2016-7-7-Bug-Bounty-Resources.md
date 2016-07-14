@@ -20,6 +20,7 @@ title: Useful Bug Bounty Resources
   - [XSS Auditor bypass using Flash and base tag](http://mksben.l0.cm/2016/05/xssauditor-bypass-flash-basetag.html)
   - [XSS Auditor Bypasses 05.2016](https://html5sec.org/xssauditor/bypasses-052016)
   - [Bypassing WAFs with non-alphanumeric XSS](http://blog.infobytesec.com/2012/09/bypassing-wafs-with-non-alphanumeric-xss.html)
+  - [XSS Cheat Sheet](http://brutelogic.com.br/blog/cheat-sheet/)
 
 + **Flash**
   - [Same Origin Policy bypass](https://hackerone.com/reports/47495)
